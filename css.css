@@ -1,0 +1,25 @@
+#gora {
+    background-color: rgb(220, 220, 220);
+    color: blueviolet;
+    text-align: center;
+    height: 100px;
+}
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+button{
+    background-color: yellow;
+    color: black;
+    padding: 20px;
+    border-radius: 50%;
+    margin: 10px;
+    text-align: center;
+}
+#but1{
+   text-align: center;
+   
+}
+#auto{
+    background-color: aquamarine;
+    }
